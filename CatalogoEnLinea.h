@@ -4,7 +4,6 @@
 #define archivo2 "catalogo.bin"
 class CatalogoEnLinea :public Subject
 {
-
 public:
     CatalogoEnLinea();
     virtual ~CatalogoEnLinea();
